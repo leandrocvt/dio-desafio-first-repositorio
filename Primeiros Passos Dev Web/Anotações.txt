@@ -14,3 +14,107 @@ Um CD de Sting (Ten Summoner's Tales). A transação ocorreu a 11 de agosto de 1
 Qual o site mais antigo em atividade?
 Em 1º de janeiro de 1985, a NORDUnet, uma espécie de agência internacional que conecta as redes nacionais de pesquisa e de educação dos países nórdicos, criou o nordu.net. A entidade, sediada na Dinamarca, segue na ativa —e o site também. O primeiro "pontocom", por sua vez, foi o symbolics. com, de 15 de março de 1985.
 
+O que é internet? 
+
+Foi criada em 1969 nos EUA. Arpanet. Departamento de Defesa. Guerra Fria. Com o objetivo de interligar laboratórios. Primeiro e-mail.
+• 1982. Univesidades. Holanda, Dinamarca e Syécia.
+• 1987. Liberado o uso comercial nos EUA.
+• 1992. CERN cria a World Wide Web. Dados acessíveis a qualquer pessoa com acesso à internet.
+
+No Brasil
+
+• 1988. FAPESP, URJ, LNCC.
+• 1994. Uso commercial. EMBRATEL.
+• Conexão discada
+• 2000. Banda larga
+
+O que são redes?
+
+Uma rede de computadores é formada por um conjunto de máquinas eletrônicas com processadores capazes de trocar informações e partilhar recursos”. Ou seja, pelo fato dás máquinas estarem interligadas e serem capazes de trocar informações,
+caracterizaria uma rede.
+
+TCP/IP
+
+• Protocolos de comunicação entre computadores em rede
+
+• Transmission Control Protocol = Protocolo de Controle de Transmissão
+
+• Internet Protocol - Protocolo de Internet
+
+• Modelo de camadas
+	• 4 camdas
+	1. Física (ex.: placa de rede)
+	2. Rede(ex.: IP)
+	3. Transporte (ex.: TCP, UDP)
+	4. APlicação (ex.: FTP, SMTP, HTTP)
+
+TCP x UDP
+
+• UDP
+ • Rápido
+ • Não confiável
+ • Carro do ovo
+ • Livestream
+
+• TCP
+ • Voltado à conexão
+ • Handshake
+ • Integridade, ordem dos dados
+ • Aplicatiov de mensagens de texto 
+
+Portas:
+ As "portinhas" por onde dados sairão e chegarão
+• 20: FTP
+• 22: SSH
+• 25: SMTP
+• 53: DNS
+• 80: HTTP
+• 443: HTTPS
+
+• Modem
+ • hardwaere que converte dadaos em um formato que possa ser transmitido de um computador
+para o outro e lido por outro.
+
+• Roteador
+ • Distribui internet para um ou mais dipositivos de uma rede
+ • Pode fazer a comunicação entre redes
+
+• Switch
+ • Distribui internet para um ou mais dipositivos de uma rede
+
+SMS
+• O celular troca, naturalmente, alguns bits com as torres de comunicação.
+
+MMS
+• Transmissão de mensagens multimídia áudio, víde)
+ por meio de uma espécie de conexão de dados primitiva.
+
+Blutooth
+• Conexão ponto a ponto
+
+Existem 2 tipos de Web-servers: estático e dinâmico
+• O estático é um servidor físico onde são armazanados arquivos, softwares e/ou banco de dados.
+• O dinâmico se refere aos softwares que estão presentes no servidor físico.
+
+Web-service
+• Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis.
+
+Stack o que é: Ambiente tecnológico com todas ferramentas necessárias.
+• Pilhas de tecnologia 
+• Conjunto de softwares necessários e suficientes para executar um aplicativo/programa
+• Linguagens de programação
+• Ambientes e ferramentas de interação com o app/sw
+• Capacidade e limitação de performace
+• Pontos fortes e fracos do app/sw
+
+Importãncia
+• Os líderes de projetos precisam das informações das equipes de desenvolvimento
+• Os desenvolvedores precisam saber as limitações e capacidades das ferramentas e ambientes
+qye têm disponíveis.
+• Sistemas, banco de dados, linguagens de programação, protocolos de comunicação.
+• Estratégias de negócios
+• Maturidade
+• Contratação, planos de mitigações de riscos, aumento da capacidade, uso de dados.
+
+
+
