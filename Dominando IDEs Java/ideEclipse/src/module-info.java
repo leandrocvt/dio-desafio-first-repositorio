@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author barbo
+ *
+ */
+module ideEclipse {
+}
