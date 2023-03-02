@@ -112,6 +112,8 @@ Meio: Testes de Integração
 
 Topo: Testes Ponta a Ponta (E2E ou Testes de Interface)
 
+![piramide](https://user-images.githubusercontent.com/99419974/222497570-bd9d3689-ceed-4feb-ba06-fd3394078d00.png)
+
 ### Pirâmides de Testes - Unitário
 
 Teste de Unidade: 
