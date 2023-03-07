@@ -1,3 +1,5 @@
+package loops;
+
 import java.util.Scanner;
 
 /*
@@ -7,7 +9,6 @@ o primeiro representando o nome do aluno e o segundo representando a sua idade.
 */
 public class Ex1NameAndAge {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
 
         while (true){
@@ -19,6 +20,5 @@ public class Ex1NameAndAge {
             System.out.print("Enter your age: ");
             Integer age = sc.nextInt();
         }
-
     }
 }

@@ -1,3 +1,5 @@
+package loops;
+
 import java.util.Scanner;
 /*
 Faça um programa que peça N números inteiros,
