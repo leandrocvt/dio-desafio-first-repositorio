@@ -1,4 +1,4 @@
-package arrays;
+package com.dio.exercicios.arrays;
 
 /*
 Crie um vetor de 6 números inteiros

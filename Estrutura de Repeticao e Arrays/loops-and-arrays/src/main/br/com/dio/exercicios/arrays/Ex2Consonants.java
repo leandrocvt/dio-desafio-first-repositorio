@@ -1,4 +1,4 @@
-package arrays;
+package com.dio.exercicios.arrays;
 
 /*
 Faça um Programa que leia um vetor de 6 caracteres,
