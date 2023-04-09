@@ -147,3 +147,50 @@ Exemplo:
             }
         }
     }
+
+## Lista encadeada
+
+Uma lista encadeada é uma estrutura de dados em que cada elemento, chamado de nó, contém um valor e um ponteiro que aponta para o próximo nó na lista. Em Java, podemos implementar uma lista encadeada da seguinte forma:
+
+        public class Node {
+            int data;
+            Node next;
+
+            public Node(int data) {
+                this.data = data;
+                this.next = null;
+            }
+        }
+
+        public class LinkedList {
+            Node head;
+
+            public LinkedList() {
+                this.head = null;
+            }
+
+            public void add(int data) {
+                Node newNode = new Node(data);
+
+                if (head == null) {
+                    head = newNode;
+                } else {
+                    Node current = head;
+
+                    while (current.next != null) {
+                        current = current.next;
+                    }
+
+                    current.next = newNode;
+                }
+            }
+
+            public void printList() {
+                Node current = head;
+
+                while (current != null) {
+                    System.out.print(current.data + " ");
+                    current = current.next;
+                }
+            }
+        }
